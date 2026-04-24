@@ -4,11 +4,12 @@ layout: default
 ---
 
 # COMP110 Focus Track Proposal
+## Creating COMP110 Focus Tracks to facilitate student interest and cater to popular majors 
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="100"/>
 
-## Summary
+## Summary:
 
 **Data:** Data was collected from student surveys from spring 2026 COMP110 sections 001 and 002.
 
@@ -29,3 +30,5 @@ layout: default
    Non-CS student majors and student scores about anticipated course valuability in the future were considered. Calculating the majors with student counts above 50, the most prominent majors in COMP110 were Neuroscience, Biology, and Economics. Only these majors were considered when analyzing the valuability data. The valuability scores of these three majors were graphed onto a histogram, and were normalized against their respective major totals. 
 
 <img src="static/imgs/value_rankings.png" alt="Histogram comparing percents of Econ, Bio, and Neuro majors that find COMP110 content valuable for the future. "  width="450"/>
+
+## Conclusion:
