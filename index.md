@@ -11,28 +11,30 @@ layout: default
 
 ## Summary:
 
-**Data:** Data was collected from student surveys from Spring 2026 COMP110 sections 001 and 002.
+**Data Source:** Student surveys from Spring 2026 COMP110 sections 001 and 002.
 
 **Goal:** Determine to what extent COMP110 students would benefit from major-specific focus track courses.
 
+*** 
+
 **Analysis:** 
-**1. Computer Science (CS) Majors/Minors vs Non-CS Majors/Minors:** 
+### 1. Computer Science (CS) Majors/Minors vs Non-CS Majors/Minors: 
     From the larger dataset, only the "comp_major" responses (responding whether or not the student was a CS student) were considered. There were three possible affirmative responses: "Yes-BA","Yes-BA", and "Yes-Minor." These counts were conglomerated into a generalized CS Major/Minor count. Only "No" responses were considered in the Non-CS count. A bar plot was used to visualize the difference in student counts between CS Majors/Minors and Non-CS Majors/Minors.
 
 <img src="static/imgs/cs_in_comp110.png" alt="Bar plot comparison of CS and Non-CS students. "  width="450"/>
 
-**2. COMP110 Course Content Interest: CS vs Non-CS Students:** 
+### 2. COMP110 Course Content Interest: CS vs Non-CS Students:
     In addition to the "comp_major" responses, student scores about interest in course content (1 to 7) were considered. Similar to the previous method, the three possible "Yes" responses were considered CS-Major responses. Each student's response was categorized into a Major (orange) or Non-Major (blue) response, and their scores are shown on the x-axis. The responses are shown as a percent of their respective major affiliation count for normalization.
 
-<non_cs_majors:int=count_majors["No"]
-cs_majors:int=count_majors["Yes - BA"]+count_majors["Yes - BS"]+count_majors["Yes - Minor"]>
 
 <img src="static/imgs/content_interest.png" alt="Histogram comparing percents of majors and non-majors interested in COMP110 content. "  width="450"/>
 
-**3. Prominent Majors in COMP110 and Course Valuability in Future:**
+### 3. Prominent Majors in COMP110 and Course Valuability in Future:
    Non-CS student majors and student scores about anticipated course valuability in the future were considered. Calculating the majors with student counts above 50, the most prominent majors in COMP110 were Neuroscience, Biology, and Economics. Only these majors were considered when analyzing the valuability data. The valuability scores of these three majors were graphed onto a histogram, and were normalized against their respective major totals. 
 
 <img src="static/imgs/value_rankings.png" alt="Histogram comparing percents of Econ, Bio, and Neuro majors that find COMP110 content valuable for the future. "  width="450"/>
+
+***
 
 ## Conclusion:
 
@@ -49,7 +51,7 @@ From the second visual, we found that CS students tend to report a higher intere
 We also visualized the distributions of beliefs in the value of course content in the three most popular majors in COMP 110: Biology, Neuroscience, and Economics. The right skew shows that most students in these majors believe that COMP 110 skills are valuable for their future. This creates a demand for focus tracks, particularly in these fields, providing valuable programming fundamentals specifically applied to material that students find interesting.  
 
 **Limitations:**
-There exist some limitations to implementing focus tracks. Opening options for only popular majors/interests may overlook other majors and interests. It would be difficult to create focus tracks for every major at UNC, even though there may be demands to explore the intersection of programming and these disciplines. Focus tracks can also divert students’ attention from the programming fundamentals and introduce complexities that students are not adequately prepared for. Introducing focus tracks would also create a demand for a specialized teaching team, which may be difficult to implement efficiently. Additionally, COMP 116, Intro to Scientific Programming, is similar to COMP 110 but focused on science applications. Science-oriented students may have chosen COMP 110 to explore broader applications of programming, and adding focus tracks would defeat that goal.
+There exist some limitations to implementing focus tracks. Opening options for only popular majors/interests may overlook other majors and interests. It would be difficult to create focus tracks for every major at UNC, even though there may be demands to explore the intersection of programming and these disciplines. Focus tracks can also divert students’ attention from the programming fundamentals and introduce complexities that students are not adequately prepared for. Introducing focus tracks would also create a demand for a specialized teaching team, which may be difficult to implement efficiently. Additionally, COMP 116, *Intro to Scientific Programming*, is similar to COMP 110 but focused on science applications. Science-oriented students may have chosen COMP 110 to explore broader applications of programming, and adding focus tracks would defeat that goal.
 
 **Extentions/Future:**
 In the future, if the COMP 110 team could gather data on student interest in these focus tracks, this idea may be refined to offer specialized, but still broad COMP 110 tracks. These tracks, rather than being catered to specific majors, may apply to broad areas, such as natural science or finance. Depending on the results of this student interest, it may also be beneficial to continue offering the general COMP 110, especially for students desiring the generalized course.   
