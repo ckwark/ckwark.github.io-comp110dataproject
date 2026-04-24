@@ -4,14 +4,14 @@ layout: default
 ---
 
 # COMP110 Focus Track Proposal
-## Creating COMP110 Focus Tracks to facilitate student interest and cater to popular majors 
+**Creating COMP110 Focus Tracks to Facilitate Student Interest and Cater to Popular Majors**
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="100"/>
 
 ## Summary:
 
-**Data:** Data was collected from student surveys from spring 2026 COMP110 sections 001 and 002.
+**Data:** Data was collected from student surveys from Spring 2026 COMP110 sections 001 and 002.
 
 **Goal:** Determine to what extent COMP110 students would benefit from major-specific focus track courses.
 
