@@ -33,22 +33,22 @@ layout: default
 
 ## Conclusion:
 
-**Rationale**
+**Rationale:**
 As non-CS majors in COMP 110, we were interested in the experiences of other non-majors in this course. Though this course is designed to be a broad introduction to computer programming, we wondered whether there was demand for more content relevant to specific majors.
 
 We believe it may be beneficial to offer specialized focus tracks to make the applicability of these skills in non-CS fields more explicit. This would show students programming skills that are useful to their majors.
 
-**Findings**
+**Findings:**
 To support this idea, we wanted to break down the student population by their majors. The bar chart comparing the population of CS and non-CS students showed us that the overwhelming majority of COMP 110 students are not CS majors or minors. This graph primarily supports our idea by suggesting that a large student population would benefit from these tracks.
 
 From the second visual, we found that CS students tend to report a higher interest in course content than other students. CS students report interest levels of 4 or higher, while the interest levels of other students resemble a bell curve. Nearly 30% of non-CS students report that the content is uninteresting to them (responses of 1-3). We hypothesize that introducing focus tracks may help these students gain more interest in the content, seeing explicit applications in their disciplines. It should be noted, however, that the low CS student count may contribute to skewed data.
 
 We also visualized the distributions of beliefs in the value of course content in the three most popular majors in COMP 110: Biology, Neuroscience, and Economics. The right skew shows that most students in these majors believe that COMP 110 skills are valuable for their future. This creates a demand for focus tracks, particularly in these fields, providing valuable programming fundamentals specifically applied to material that students find interesting.  
 
-**Limitations**
+**Limitations:**
 There exist some limitations to implementing focus tracks. Opening options for only popular majors/interests may overlook other majors and interests. It would be difficult to create focus tracks for every major at UNC, even though there may be demands to explore the intersection of programming and these disciplines. Focus tracks can also divert students’ attention from the programming fundamentals and introduce complexities that students are not adequately prepared for. Introducing focus tracks would also create a demand for a specialized teaching team, which may be difficult to implement efficiently. Additionally, COMP 116, Intro to Scientific Programming, is similar to COMP 110 but focused on science applications. Science-oriented students may have chosen COMP 110 to explore broader applications of programming, and adding focus tracks would defeat that goal.
 
-**Extentions/Future**
+**Extentions/Future:**
 In the future, if the COMP 110 team could gather data on student interest in these focus tracks, this idea may be refined to offer specialized, but still broad COMP 110 tracks. These tracks, rather than being catered to specific majors, may apply to broad areas, such as natural science or finance. Depending on the results of this student interest, it may also be beneficial to continue offering the general COMP 110, especially for students desiring the generalized course.   
 
 Overall, there are many challenges associated with introducing focus tracks. However, with a large non-CS student population, a large spread in interest in the non-CS population, and high demand for programming skills, it is necessary to align this course with the interests of the majority. By implementing focus tracks, students may find it easier to gain value from and be interested in the content of COMP 110.
