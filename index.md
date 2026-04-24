@@ -55,4 +55,4 @@ Overall, there are many challenges associated with introducing focus tracks. How
 
 
 
-co-authors: Claire Kwark, Katelyn Wang
+author: Claire Kwark
