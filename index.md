@@ -52,3 +52,7 @@ There exist some limitations to implementing focus tracks. Opening options for o
 In the future, if the COMP 110 team could gather data on student interest in these focus tracks, this idea may be refined to offer specialized, but still broad COMP 110 tracks. These tracks, rather than being catered to specific majors, may apply to broad areas, such as natural science or finance. Depending on the results of this student interest, it may also be beneficial to continue offering the general COMP 110, especially for students desiring the generalized course.   
 
 Overall, there are many challenges associated with introducing focus tracks. However, with a large non-CS student population, a large spread in interest in the non-CS population, and high demand for programming skills, it is necessary to align this course with the interests of the majority. By implementing focus tracks, students may find it easier to gain value from and be interested in the content of COMP 110.
+
+
+
+co-authors: Claire Kwark, Katelyn Wang
