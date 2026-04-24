@@ -31,10 +31,10 @@ github_username:  ckwark
 
 # Build settings
 # Build settings
-theme: academic-jekyll-theme
+remote_theme: "jekyll/minima@1e8a445"
 
 plugins:
-- academic-jekyll-theme
+  - jekyll-remote-theme
 #- jekyll-feed
 # Exclude from processing.
 # The following items will not be processed, by default.
